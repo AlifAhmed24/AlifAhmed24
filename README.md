@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm passionate about building robust and innovative web applications. My primary tech stack is MERN (MongoDB, Express, React, Node.js), and I enjoy diving into front-end technologies like React, Redux, and Sass.
 
-🌐 Check out my personal website: [dsyncro.vercel.app/]([https://www.yourwebsite.com](https://dsyncro.vercel.app/))
+🌐 Check out my personal website: [dsyncro.vercel.app]([https://www.yourwebsite.com](https://dsyncro.vercel.app)
 
 ### 💼 What I Do
 
@@ -14,24 +14,25 @@ Welcome to my GitHub profile! I'm passionate about building robust and innovativ
 
 Here are some of my recent projects:
 
-1. [Dsyncro Web Agency](https://github.com/yourusername/project1) - Short project description.
-2. [Project Name 2](https://github.com/yourusername/project2) - Short project description.
-3. [Project Name 3](https://github.com/yourusername/project3) - Short project description.
+1. [Dsyncro Web Agency](https://github.com/AlifAhmed24/Dsyncro) - Short project description.
 
 Feel free to explore them and provide feedback or collaborate.
 
 ### 📫 Let's Connect
 
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🌐 Website: [YourWebsite.com](https://www.yourwebsite.com)
+- 🐦 Twitter: [Alif Ahmed](https://twitter.com/yourtwitterhandle)
+- 💼 LinkedIn: [Alif Ahmed](https://www.linkedin.com/in/alif-ahmed-8b916029a)
+- 🌐 Website: [Dsyncro.com](https://dsyncro.vercel.app/)
 
 ### 🌱 Currently Learning
 
 I'm always exploring new technologies, and right now, I'm diving deeper into:
 
-- [React.js]
-- [Node.js]
+- [React](https://reactjs.org/)
+- [Node](https://dsyncro.vercel.app/)
+- [Mongodb](https://dsyncro.vercel.app/)
+- [Express](https://dsyncro.vercel.app/)
+- [Next Js](https://dsyncro.vercel.app/)
 
 ### ⚡ Fun Facts
 
@@ -40,5 +41,5 @@ I'm always exploring new technologies, and right now, I'm diving deeper into:
 
 Feel free to reach out and let's connect and collaborate on exciting projects!
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
+[![Alif Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlifAhmed24&show_icons=true&count_private=true)](https://github.com/AlifAhmed24)
 
